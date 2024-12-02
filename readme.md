@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<p align="center">                                                  BARAKA-MD
+<p align="center">                                                  VINIZIAZ-MD
 
 
 </p>
@@ -12,25 +12,25 @@
  
  
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BARAKA-MD+MADE+IN+TANZANIA+🇹🇿" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+VINIZIAZ -MD+MADE+IN+BRAZIL+🇧🇷" alt="Typing SVG" /></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
  <p align="left">
-  <a href="https://github.com/Kingbega/BARAKA-MD-V1/fork">
-    <img src="https://img.shields.io/github/forks/Kingbega/BARAKA-MD-V1?label=Fork&style=social">
+  <a href="https://github.com/Viniziaz/VINIZIAZ-MD-V1/fork">
+    <img src="https://img.shields.io/github/forks/Kipkirui/VINIZIAZ-MD-V1?label=Fork&style=social">
   <p align="left"> 
-  <a href="https://github.com/Kingbega/BARAKA-MD-V1/stargazers">
-    <img src="https://img.shields.io/github/stars/Kingbega/BARAKA-MD-V1?style=social">
+  <a href="https://github.com/Viniziaz/VINIZIAZ-MD-V1/stargazers">
+    <img src="https://img.shields.io/github/stars/Kipkirui/VINIZIAZ-MD-V1?style=social">
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
-## `BARAKA-MD FEATURES` 
+## `VINIZIAZ-MD FEATURES` 
 
 
 | Feature                          | Description                                             | Available    | Version    |
